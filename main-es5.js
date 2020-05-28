@@ -185,7 +185,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-root"]],
       decls: 8,
       vars: 1,
-      consts: [[1, "row", "row-slim"], [1, "col-12"], [1, "row"], ["class", "favItem col-4", 4, "ngFor", "ngForOf"], [1, "wrapper"], [1, "favItem", "col-4"], [3, "src"]],
+      consts: [[1, "row", "row-slim"], [1, "col-12"], [1, "row"], ["class", "favItem col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2", 4, "ngFor", "ngForOf"], [1, "wrapper"], [1, "favItem", "col-12", "col-sm-6", "col-md-4", "col-lg-3", "col-xl-2"], [3, "src"]],
       template: function AppComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "header");
