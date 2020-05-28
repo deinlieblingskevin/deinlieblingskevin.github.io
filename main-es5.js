@@ -145,9 +145,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     function AppComponent_div_5_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 4);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "app-jumbotron", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "app-jumbotron", 5);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
       }
@@ -183,9 +183,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: AppComponent,
       selectors: [["app-root"]],
-      decls: 8,
+      decls: 6,
       vars: 1,
-      consts: [[1, "row", "row-slim"], [1, "col-12"], [1, "row"], ["class", "favItem col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2", 4, "ngFor", "ngForOf"], [1, "wrapper"], [1, "favItem", "col-12", "col-sm-6", "col-md-4", "col-lg-3", "col-xl-2"], [3, "src"]],
+      consts: [[1, "row", "row-slim"], [1, "col-12"], [1, "row"], ["class", "favItem col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2", 4, "ngFor", "ngForOf"], [1, "favItem", "col-12", "col-sm-6", "col-md-4", "col-lg-3", "col-xl-2"], [3, "src"]],
       template: function AppComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "header");
@@ -205,12 +205,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "footer", 4);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, " Bitch. i'm here\n");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
@@ -381,7 +375,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       },
       decls: 1,
       vars: 1,
-      consts: [[1, "pic", "pic-sized", "grayscale", 3, "src"]],
+      consts: [["sizes", "600px", 1, "pic", "pic-sized", "grayscale", 3, "src"]],
       template: function JumbotronComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "img", 0);
@@ -391,7 +385,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx.src, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
         }
       },
-      styles: ["img.grayscale[_ngcontent-%COMP%] {\r\n  filter: grayscale(100%) blur(1px);\r\n  -webkit-filter: grayscale(100%) blur(2px);\r\n  \r\n   transition: all 0.5s ease; \r\n}\r\n\r\nimg.grayscale[_ngcontent-%COMP%]:hover {\r\n  filter: none;\r\n  -webkit-filter: grayscale(0%);\r\n}\r\n\r\n.pic[_ngcontent-%COMP%]{\r\n  -o-object-fit: inherit;\r\n     object-fit: inherit;\r\n  -o-object-position: center;\r\n     object-position: center;\r\n  max-height: 100%;\r\n  width: 100%;\r\n}\r\n\r\n.pic-sized[_ngcontent-%COMP%]\r\n{\r\n  min-height:250px;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvanVtYm90cm9uL2p1bWJvdHJvbi5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsaUNBQWlDO0VBQ2pDLHlDQUF5Qzs7R0FFeEMseUJBQXlCLEVBQUUsMkJBQTJCO0FBQ3pEOztBQUVBO0VBQ0UsWUFBWTtFQUNaLDZCQUE2QjtBQUMvQjs7QUFFQTtFQUNFLHNCQUFtQjtLQUFuQixtQkFBbUI7RUFDbkIsMEJBQXVCO0tBQXZCLHVCQUF1QjtFQUN2QixnQkFBZ0I7RUFDaEIsV0FBVztBQUNiOztBQUVBOztFQUVFLGdCQUFnQjtBQUNsQiIsImZpbGUiOiJzcmMvYXBwL2p1bWJvdHJvbi9qdW1ib3Ryb24uY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbImltZy5ncmF5c2NhbGUge1xyXG4gIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpIGJsdXIoMXB4KTtcclxuICAtd2Via2l0LWZpbHRlcjogZ3JheXNjYWxlKDEwMCUpIGJsdXIoMnB4KTtcclxuICBcclxuICAgdHJhbnNpdGlvbjogYWxsIDAuNXMgZWFzZTsgLyogQ2hyb21lIDE5KyAmIFNhZmFyaSA2KyAqL1xyXG59XHJcblxyXG5pbWcuZ3JheXNjYWxlOmhvdmVyIHtcclxuICBmaWx0ZXI6IG5vbmU7XHJcbiAgLXdlYmtpdC1maWx0ZXI6IGdyYXlzY2FsZSgwJSk7XHJcbn1cclxuXHJcbi5waWN7XHJcbiAgb2JqZWN0LWZpdDogaW5oZXJpdDtcclxuICBvYmplY3QtcG9zaXRpb246IGNlbnRlcjtcclxuICBtYXgtaGVpZ2h0OiAxMDAlO1xyXG4gIHdpZHRoOiAxMDAlO1xyXG59XHJcblxyXG4ucGljLXNpemVkXHJcbntcclxuICBtaW4taGVpZ2h0OjI1MHB4O1xyXG59Il19 */"]
+      styles: ["img.grayscale[_ngcontent-%COMP%] {\r\n  filter: grayscale(100%) blur(1px);\r\n  -webkit-filter: grayscale(100%) blur(2px);\r\n  \r\n   transition: all 0.5s ease; \r\n}\r\n\r\nimg.grayscale[_ngcontent-%COMP%]:hover {\r\n  filter: none;\r\n  -webkit-filter: grayscale(0%);\r\n}\r\n\r\n.pic[_ngcontent-%COMP%]{\r\n  -o-object-fit: cover;\r\n     object-fit: cover;\r\n  -o-object-position: center;\r\n     object-position: center;\r\n  max-height: 100%;\r\n  width: 100%;\r\n}\r\n\r\n.pic-sized[_ngcontent-%COMP%]\r\n{\r\n  min-height:250px;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvanVtYm90cm9uL2p1bWJvdHJvbi5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsaUNBQWlDO0VBQ2pDLHlDQUF5Qzs7R0FFeEMseUJBQXlCLEVBQUUsMkJBQTJCO0FBQ3pEOztBQUVBO0VBQ0UsWUFBWTtFQUNaLDZCQUE2QjtBQUMvQjs7QUFFQTtFQUNFLG9CQUFpQjtLQUFqQixpQkFBaUI7RUFDakIsMEJBQXVCO0tBQXZCLHVCQUF1QjtFQUN2QixnQkFBZ0I7RUFDaEIsV0FBVztBQUNiOztBQUVBOztFQUVFLGdCQUFnQjtBQUNsQiIsImZpbGUiOiJzcmMvYXBwL2p1bWJvdHJvbi9qdW1ib3Ryb24uY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbImltZy5ncmF5c2NhbGUge1xyXG4gIGZpbHRlcjogZ3JheXNjYWxlKDEwMCUpIGJsdXIoMXB4KTtcclxuICAtd2Via2l0LWZpbHRlcjogZ3JheXNjYWxlKDEwMCUpIGJsdXIoMnB4KTtcclxuICBcclxuICAgdHJhbnNpdGlvbjogYWxsIDAuNXMgZWFzZTsgLyogQ2hyb21lIDE5KyAmIFNhZmFyaSA2KyAqL1xyXG59XHJcblxyXG5pbWcuZ3JheXNjYWxlOmhvdmVyIHtcclxuICBmaWx0ZXI6IG5vbmU7XHJcbiAgLXdlYmtpdC1maWx0ZXI6IGdyYXlzY2FsZSgwJSk7XHJcbn1cclxuXHJcbi5waWN7XHJcbiAgb2JqZWN0LWZpdDogY292ZXI7XHJcbiAgb2JqZWN0LXBvc2l0aW9uOiBjZW50ZXI7XHJcbiAgbWF4LWhlaWdodDogMTAwJTtcclxuICB3aWR0aDogMTAwJTtcclxufVxyXG5cclxuLnBpYy1zaXplZFxyXG57XHJcbiAgbWluLWhlaWdodDoyNTBweDtcclxufSJdfQ== */"]
     });
     /*@__PURE__*/
 
