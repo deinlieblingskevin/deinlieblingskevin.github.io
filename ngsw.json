@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701866001823,
+  "timestamp": 1701873398426,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/favicon.ico",
         "/main-XA3KXGXA.js",
         "/polyfills-F4P3OIQ6.js",
-        "/styles-H2RLT2SS.css"
+        "/styles-TEA7ZH7X.css"
       ],
       "patterns": []
     },
@@ -43,9 +43,13 @@
         "/assets/comic/C15.JPG",
         "/assets/comic/C16.JPG",
         "/assets/fonts/BADABB__.TTF",
+        "/assets/fonts/BADABB__.woff2",
         "/assets/fonts/CCMeanwhile-Regular.ttf",
+        "/assets/fonts/CCMeanwhile-Regular.woff2",
         "/assets/fonts/SCRIPALT.ttf",
+        "/assets/fonts/SCRIPALT.woff2",
         "/assets/fonts/SCRIPTIN.ttf",
+        "/assets/fonts/SCRIPTIN.woff2",
         "/assets/fonts/font info.txt",
         "/assets/games/5mindungeon.JPG",
         "/assets/games/5minmystery.JPG",
@@ -128,9 +132,13 @@
     "/assets/comic/C15.JPG": "ff337646b449123f5416f40853b2ff6dd77b9fcf",
     "/assets/comic/C16.JPG": "0dfd0a9cad870ad44ca22b96d0e25ddeb9e96729",
     "/assets/fonts/BADABB__.TTF": "288a6874e581403320235d8895bed8e544e778bf",
+    "/assets/fonts/BADABB__.woff2": "66ccbe7f0e81d13c3d89fa41ba2b5f5ff198ac99",
     "/assets/fonts/CCMeanwhile-Regular.ttf": "b12b371d81d14f19c5482cf70b570de75ca60789",
+    "/assets/fonts/CCMeanwhile-Regular.woff2": "d034b69245a361091608c8359459c39cd5044963",
     "/assets/fonts/SCRIPALT.ttf": "c0a91cb48060ce1eb2d176ef3d088881edcdb913",
+    "/assets/fonts/SCRIPALT.woff2": "aeddd1d92190102ca43d56952ff7b3f7b4c02aad",
     "/assets/fonts/SCRIPTIN.ttf": "c0f8624a6cc2954b85e53576e91f5f512c9554ed",
+    "/assets/fonts/SCRIPTIN.woff2": "5524374d6202ad3ed6514737c0d5c33a2bba5972",
     "/assets/fonts/font info.txt": "5e377bf48b6266db76b2b2ec5c9c449b8feba7d3",
     "/assets/games/5mindungeon.JPG": "cccf66fd67fe1487bd8d32ac4b7cef6be285ad0e",
     "/assets/games/5minmystery.JPG": "6863895c8daade426d86c2fe3f2dab85b3952b8a",
@@ -193,7 +201,7 @@
     "/favicon.ico": "c90a15c6baf2387fb9320c23a528d1d08414ad20",
     "/main-XA3KXGXA.js": "518228c4a6a218f631b2e133fb385b6d8b2c000d",
     "/polyfills-F4P3OIQ6.js": "a6e643ded87bd912d9b7a7834eaf0b6fe1f64511",
-    "/styles-H2RLT2SS.css": "2fd967bdb6710ffde082f8bb321eda1efbe5da46"
+    "/styles-TEA7ZH7X.css": "7e70836fd6af1319e7e329b5b7ad222dcc1fba1e"
   },
   "navigationUrls": [
     {
