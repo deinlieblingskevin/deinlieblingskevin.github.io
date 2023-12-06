@@ -27,6 +27,13 @@ Header set Cache-Control "max-age=864000"
 </FilesMatch>
 AddType video/webm .webm
 
+<FilesMatch "\.(webp)$">
+Header set Expires "Mon, 27 Mar 2038 13:33:37 GMT"
+Header set Cache-Control "max-age=864000"
+</FilesMatch>
+AddType image/webp .webp
+
+
 <ifModule mod_gzip.c>
 mod_gzip_on Yes
 mod_gzip_dechunk Yes
