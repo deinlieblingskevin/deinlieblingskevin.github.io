@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715167563786,
+  "timestamp": 1715179063874,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main-LALJ4AAN.js",
+        "/main-NKC3NI4B.js",
         "/polyfills-F4P3OIQ6.js",
         "/styles-LF67YCGW.css"
       ],
@@ -203,7 +203,7 @@
     "/assets/sounds/success-sound.mp3": "66813ba9baba2df19bf9645dc4035860e906ee0e",
     "/assets/sounds/wrong-sound.mp3": "9431d84d1ad3eaa24a9cca5c35882e69cc3f950d",
     "/favicon.ico": "c90a15c6baf2387fb9320c23a528d1d08414ad20",
-    "/main-LALJ4AAN.js": "005a876f194d4ea9c1d0306d3a25ef13f040d7a5",
+    "/main-NKC3NI4B.js": "4c5deb9da4d7ad675d583dbe300609f5b1198de6",
     "/polyfills-F4P3OIQ6.js": "a6e643ded87bd912d9b7a7834eaf0b6fe1f64511",
     "/styles-LF67YCGW.css": "e1ba29dc529ae3be70c9ec2061af4c634063e397"
   },
