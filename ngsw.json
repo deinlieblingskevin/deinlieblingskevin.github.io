@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715157910951,
+  "timestamp": 1715166731360,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main-MBDSDP26.js",
+        "/main-UDAUO7H6.js",
         "/polyfills-F4P3OIQ6.js",
         "/styles-LF67YCGW.css"
       ],
@@ -105,6 +105,8 @@
         "/assets/pictures/hand.png",
         "/assets/pictures/hand_plain.png",
         "/assets/pictures/hand_plain.webp",
+        "/assets/pictures/hand_plain_content_loading.png",
+        "/assets/pictures/hand_plain_content_preview.png",
         "/assets/pictures/profile-pic.png",
         "/assets/pictures/profile-pic.webp",
         "/assets/sounds/success-sound.mp3",
@@ -194,12 +196,14 @@
     "/assets/pictures/hand.png": "4cb4e065e27c57b4ed7fe649a1f3c448df1f7c55",
     "/assets/pictures/hand_plain.png": "ba135b766f442bd422a1aa4d8581ce0032e4ee2a",
     "/assets/pictures/hand_plain.webp": "dfc9e9d1a244e4527ae14738a2a6b134f528b11f",
+    "/assets/pictures/hand_plain_content_loading.png": "fe6f44779b457bb17d6255f9192831374a3b10c0",
+    "/assets/pictures/hand_plain_content_preview.png": "7e42885e220b1768ff6d9a9f3fa35b3140f077bd",
     "/assets/pictures/profile-pic.png": "d238ccf3d9dac8e97a25c3be94a5584c0a0bdba7",
     "/assets/pictures/profile-pic.webp": "e639fb83a44e3e9641431db5ce93ff65b21f9c93",
     "/assets/sounds/success-sound.mp3": "66813ba9baba2df19bf9645dc4035860e906ee0e",
     "/assets/sounds/wrong-sound.mp3": "9431d84d1ad3eaa24a9cca5c35882e69cc3f950d",
     "/favicon.ico": "c90a15c6baf2387fb9320c23a528d1d08414ad20",
-    "/main-MBDSDP26.js": "fd46f4398377399336656d4ec1ffb2a97ddb7146",
+    "/main-UDAUO7H6.js": "d7a909d9eb200f444b96230bd9e88897bc4a05fb",
     "/polyfills-F4P3OIQ6.js": "a6e643ded87bd912d9b7a7834eaf0b6fe1f64511",
     "/styles-LF67YCGW.css": "e1ba29dc529ae3be70c9ec2061af4c634063e397"
   },
