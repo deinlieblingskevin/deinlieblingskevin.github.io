@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715179739152,
+  "timestamp": 1729685220332,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main-FU7CLGIB.js",
+        "/main-DHAPP7PY.js",
         "/polyfills-F4P3OIQ6.js",
         "/styles-LF67YCGW.css"
       ],
@@ -57,6 +57,7 @@
         "/assets/games/7wduel.JPG",
         "/assets/games/7wleaders.JPG",
         "/assets/games/bang.JPG",
+        "/assets/games/beat-that.jpg",
         "/assets/games/betrayal.JPG",
         "/assets/games/blokus.JPG",
         "/assets/games/catanduell.JPG",
@@ -75,8 +76,10 @@
         "/assets/games/mysterium.JPG",
         "/assets/games/nobodysperfect.JPG",
         "/assets/games/phase10.JPG",
+        "/assets/games/rhino.JPG",
         "/assets/games/risiko.JPG",
         "/assets/games/roborally.JPG",
+        "/assets/games/scottland.JPG",
         "/assets/games/scrabble.JPG",
         "/assets/games/skipbo.JPG",
         "/assets/games/sonar.JPG",
@@ -148,6 +151,7 @@
     "/assets/games/7wduel.JPG": "783fbe704d4c3cd6256ec4c5363a5fe5d2067470",
     "/assets/games/7wleaders.JPG": "4d843f93bd38d5c5be8bcdde0efdeceda1d04228",
     "/assets/games/bang.JPG": "0c01a791762aa8716ed56b22dc62bb371a02fc2b",
+    "/assets/games/beat-that.jpg": "511d00396aab345efaf382b7630c2abfe67e4087",
     "/assets/games/betrayal.JPG": "24d8f6546d4068bf93a2642826c3d5370951ce5a",
     "/assets/games/blokus.JPG": "b79dd5fea1b63e377e0b8d0de72d2758828fc068",
     "/assets/games/catanduell.JPG": "6fc3386930283ad9cd5279112b7b587ae813efca",
@@ -166,8 +170,10 @@
     "/assets/games/mysterium.JPG": "e26080d98fee3756f91b062d44702925f5ec6eea",
     "/assets/games/nobodysperfect.JPG": "e78698d4fb6bd1036d38464b03cc43005e8195cd",
     "/assets/games/phase10.JPG": "fd49362e0ec798e360eff8e1e1d9a51d95a23e46",
+    "/assets/games/rhino.JPG": "bb0e20ea3b64c1ca337507cde8e0b154696483f4",
     "/assets/games/risiko.JPG": "71cd3cb1a849fc81a70c2163e7945a63868f4731",
     "/assets/games/roborally.JPG": "b9853081d4ebf45854eebdc72c65fba1ba529cb5",
+    "/assets/games/scottland.JPG": "70ef9828822d9d33f28dc1984b0a3e971a8aacb7",
     "/assets/games/scrabble.JPG": "56e74eadc7c0644aedc98da576ee9e8ef47eb556",
     "/assets/games/skipbo.JPG": "b080c002c69bc38647f409f3b5a41cff37847112",
     "/assets/games/sonar.JPG": "b85ac6e284aec346f18d142650fba624b464dd1b",
@@ -203,7 +209,7 @@
     "/assets/sounds/success-sound.mp3": "66813ba9baba2df19bf9645dc4035860e906ee0e",
     "/assets/sounds/wrong-sound.mp3": "9431d84d1ad3eaa24a9cca5c35882e69cc3f950d",
     "/favicon.ico": "c90a15c6baf2387fb9320c23a528d1d08414ad20",
-    "/main-FU7CLGIB.js": "b2218e889bbd8f5c349fdb3239100d00988ae108",
+    "/main-DHAPP7PY.js": "360fee11919b398fa673433f1a1e1ae8b2ec2dee",
     "/polyfills-F4P3OIQ6.js": "a6e643ded87bd912d9b7a7834eaf0b6fe1f64511",
     "/styles-LF67YCGW.css": "e1ba29dc529ae3be70c9ec2061af4c634063e397"
   },
